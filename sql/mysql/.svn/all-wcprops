@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/weberp/!svn/ver/9384/branches/webERP-Medical_stable/sql/mysql
+END
+upgrade3.05-3.06.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/upgrade3.05-3.06.sql
+END
+upgrade4.04.1-4.04.4.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/upgrade4.04.1-4.04.4.sql
+END
+upgrade3.06-3.07.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/upgrade3.06-3.07.sql
+END
+upgrade2.7-2.8.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/upgrade2.7-2.8.sql
+END
+upgrade4.04.5-4.05.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/upgrade4.04.5-4.05.sql
+END
+upgrade3.07-3.08.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/upgrade3.07-3.08.sql
+END
+upgrade2.8-2.9.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/upgrade2.8-2.9.sql
+END
+upgrade4.04.4-4.04.5.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/upgrade4.04.4-4.04.5.sql
+END
+upgrade2.9-2.9a.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/upgrade2.9-2.9a.sql
+END
+upgrade2.9a-2.9b.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/upgrade2.9a-2.9b.sql
+END
+weberp-demo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/weberp-demo.sql
+END
+upgrade3.00-3.01.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/upgrade3.00-3.01.sql
+END
+upgrade3.11.1-4.00.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/upgrade3.11.1-4.00.sql
+END
+upgrade3.01-3.02.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/upgrade3.01-3.02.sql
+END
+upgrade3.11-3.11.1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/upgrade3.11-3.11.1.sql
+END
+upgrade3.10-3.11.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/upgrade3.10-3.11.sql
+END
+upgrade3.02-3.03.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/upgrade3.02-3.03.sql
+END
+weberp-new.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/weberp-new.sql
+END
+upgrade3.03-3.04.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/upgrade3.03-3.04.sql
+END
+upgrade3.04-3.05.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/upgrade3.04-3.05.sql
+END
+upgrade4.03-4.04.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/upgrade4.03-4.04.sql
+END
+upgrade4.04-4.04.1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/upgrade4.04-4.04.1.sql
+END
+upgrade3.09-3.10.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/sql/mysql/upgrade3.09-3.10.sql
+END

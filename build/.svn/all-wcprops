@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/build
+END
+check_formatting.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/build/check_formatting.sh
+END
+check_closing_tags.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/build/check_closing_tags.sh
+END
+check_sql.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/build/check_sql.sh
+END
+make_release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/build/make_release.sh
+END
+check_html.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/build/check_html.sh
+END
+check_syntax.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/build/check_syntax.sh
+END

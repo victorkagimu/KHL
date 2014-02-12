@@ -1,0 +1,109 @@
+END
+StockCategories.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/weberp/!svn/ver/8553/trunk/StockCategories.php
+END
+BOMInquiry.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/weberp/!svn/ver/8498/trunk/BOMInquiry.php
+END
+EmailConfirmation.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/weberp/!svn/ver/8260/trunk/EmailConfirmation.php
+END
+TaxAuthorityRates.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/weberp/!svn/ver/8516/trunk/TaxAuthorityRates.php
+END
+PO_PDFPurchOrder.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/weberp/!svn/ver/8494/trunk/PO_PDFPurchOrder.php
+END
+SelectCompletedOrder.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/weberp/!svn/ver/8516/trunk/SelectCompletedOrder.php
+END
+CopyBOM.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/weberp/!svn/ver/8497/trunk/CopyBOM.php
+END
+Shipments.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/weberp/!svn/ver/8516/trunk/Shipments.php
+END
+SMTPServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/weberp/!svn/ver/8494/trunk/SMTPServer.php
+END
+MRPPlannedPurchaseOrders.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/weberp/!svn/ver/8494/trunk/MRPPlannedPurchaseOrders.php
+END
+DailySalesInquiry.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/weberp/!svn/ver/8542/trunk/DailySalesInquiry.php
+END
+SelectCreditItems.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/weberp/!svn/ver/8516/trunk/SelectCreditItems.php
+END
+SelectWorkOrder.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/weberp/!svn/ver/8498/trunk/SelectWorkOrder.php
+END
+ConfirmDispatchControlled_Invoice.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/weberp/!svn/ver/7404/trunk/ConfirmDispatchControlled_Invoice.php
+END
+GLBudgets.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/weberp/!svn/ver/8494/trunk/GLBudgets.php
+END
+OrderDetails.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/weberp/!svn/ver/8498/trunk/OrderDetails.php
+END
+Z_CurrencySuppliersBalances.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/weberp/!svn/ver/8133/trunk/Z_CurrencySuppliersBalances.php
+END
+geocode_genxml_customers.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/weberp/!svn/ver/5776/trunk/geocode_genxml_customers.php
+END

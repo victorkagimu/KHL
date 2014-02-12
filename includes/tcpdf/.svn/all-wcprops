@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/includes/tcpdf
+END
+encodings_maps.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/includes/tcpdf/encodings_maps.php
+END
+LICENSE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/includes/tcpdf/LICENSE.TXT
+END
+tcpdf.pem
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/includes/tcpdf/tcpdf.pem
+END
+CHANGELOG.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/includes/tcpdf/CHANGELOG.TXT
+END
+unicode_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/includes/tcpdf/unicode_data.php
+END
+tcpdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/includes/tcpdf/tcpdf.php
+END
+barcodes.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/includes/tcpdf/barcodes.php
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/includes/tcpdf/README.TXT
+END
+htmlcolors.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/includes/tcpdf/htmlcolors.php
+END
+2dbarcodes.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/includes/tcpdf/2dbarcodes.php
+END

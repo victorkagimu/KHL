@@ -1,0 +1,33 @@
+<?php
+/* $Id$*/
+/*Code to replace [Variables] in Message LineText with the value of the variable itself */
+
+	$PositionPointer = 0;
+	$NewLineText ='';
+	/* now get each occurence of [ in the line */
+	while (strpos ($MsgLineText,'[',$PositionPointer)!=False){
+		$LastPositionPointer = $PositionPointer;
+		$PositionPointer = strpos ($MsgLineText,'[',$PositionPointer);
+
+		$NewLineText = $NewLineText .  substr($MsgLineText,$LastPositionPointer,$PositionPointer-$LastPositionPointer);
+
+		$LastPositionPointer = $PositionPointer;
+		$PositionPointer = strpos ($MsgLineText,']',$PositionPointer);
+
+		$VariableName = substr($MsgLineText,$LastPositionPointer+1,$PositionPointer-$LastPositionPointer-1);
+
+		$PositionPointer++;
+
+		echo '<br />' . _('The variable') . ' - ' . $VariableName . ' ' . _('is set to') . ' ' . $$VariableName;
+
+		$NewLineText = $NewLineText . $$VariableName;
+
+	}
+	/* now add the text from the last ] to the end of the line */
+	$LastPositionPointer = $PositionPointer;
+	$NewLineText = $NewLineText .  substr($MsgLineText,$LastPositionPointer);
+
+	echo '<br />'.$NewLineText;
+
+	fputs($fp, $NewLineText . "\n");
+?>

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/weberp/!svn/ver/9384/branches/webERP-Medical_stable/api
+END
+api_workorders.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_workorders.php
+END
+api_glgroups.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_glgroups.php
+END
+api_glaccounts.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_glaccounts.php
+END
+api_currencies.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_currencies.php
+END
+api_salesman.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_salesman.php
+END
+api_session.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_session.inc
+END
+api_webERPsettings.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_webERPsettings.php
+END
+api_errorcodes.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_errorcodes.php
+END
+api_login.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_login.php
+END
+api_debtortransactions.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_debtortransactions.php
+END
+api_glsections.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_glsections.php
+END
+api_purchdata.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_purchdata.php
+END
+api_holdreasons.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_holdreasons.php
+END
+api_xml-rpc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/weberp/!svn/ver/9384/branches/webERP-Medical_stable/api/api_xml-rpc.php
+END
+api_salesareas.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_salesareas.php
+END
+api_stock.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_stock.php
+END
+api_customers.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_customers.php
+END
+api_branches.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_branches.php
+END
+api_customertypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_customertypes.php
+END
+api_salesorders.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_salesorders.php
+END
+api_suppliers.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_suppliers.php
+END
+api_php.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_php.php
+END
+api_paymentterms.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_paymentterms.php
+END
+api_stockcategories.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_stockcategories.php
+END
+api_locations.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_locations.php
+END
+api_salestypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_salestypes.php
+END
+api_taxgroups.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_taxgroups.php
+END
+api_shippers.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/api/api_shippers.php
+END

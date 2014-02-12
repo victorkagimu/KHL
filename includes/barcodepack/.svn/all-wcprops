@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/includes/barcodepack
+END
+class.code128.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/includes/barcodepack/class.code128.php
+END
+class.ean13.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/includes/barcodepack/class.ean13.php
+END
+class.upc.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/includes/barcodepack/class.upc.php
+END
+class.linearBarcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/includes/barcodepack/class.linearBarcode.php
+END
+class.qrCode.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/includes/barcodepack/class.qrCode.php
+END
+class.s2of5.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/includes/barcodepack/class.s2of5.php
+END
+class.barcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/includes/barcodepack/class.barcode.php
+END
+class.i2of5.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/weberp/!svn/ver/8985/branches/webERP-Medical_stable/includes/barcodepack/class.i2of5.php
+END
