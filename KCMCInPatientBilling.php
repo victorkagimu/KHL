@@ -380,8 +380,13 @@ if (isset($_POST['SubmitCash']) or isset($_POST['SubmitInsurance'])) {
 				$DbgMsg = _('The following SQL to insert the stock movement records was used');
 				$Result = DB_query($SQL,$db,$ErrMsg,$DbgMsg,true);
 
-				/* If GLLink_Stock then insert GLTrans to credit stock and debit cost of sales at standard cost*/
+				/*Update the location stock records */
+				$SQL = "UPDATE locstock SET quantity = quantity + '" . -$_SESSION['Items'][$i]['Quantity'] . "'
+					WHERE stockid='" . $_SESSION['Items'][$i]['StockID'] . "'
+					AND loccode='" . $_SESSION['Items']['Dispensary'] . "'";
+				$Result = DB_query($SQL,$db,$ErrMsg,$DbgMsg,true);
 
+				/* If GLLink_Stock then insert GLTrans to credit stock and debit cost of sales at standard cost*/
 				if ($_SESSION['CompanyRecord']['gllink_stock']==1 AND $_SESSION['Items'][$i]['StandardCost'] !=0){
 
 				/*first the cost of sales entry*/
